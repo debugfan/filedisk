@@ -2,3 +2,5 @@
 obj
 Release
 Debug
+.vs
+*.db
